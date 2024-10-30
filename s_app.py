@@ -32,7 +32,7 @@ import sentence_transformers
 from langchain_community.vectorstores import FAISS
 
 # Hugging Face API Token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "ask"
 
 # Model ID
 # ---"NousResearch/Llama-2-7b-chat-hf"
